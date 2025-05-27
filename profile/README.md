@@ -17,6 +17,21 @@ Our goal isn’t to replace the modding scene — just to give it a better home.
 
 ---
 
+## 📁 What We Share
+
+Volar is a modding platform and community hub where creators can upload, manage, and share their work.  
+We support game mods, tools, presets, and more — all in one place.
+
+While the core platform is closed-source, this GitHub organization hosts supporting resources like:
+
+- Documentation for creators and developers
+- Tools to help integrate with the Volar platform
+- APIs, SDKs, or utilities (when applicable)
+
+We're here to support creators, not compete with them. More public resources will roll out as we grow.
+
+---
+
 ## 📬 Get in Touch
 
 Got questions, feedback, or want to collaborate?
