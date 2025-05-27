@@ -14,3 +14,11 @@ We're a closed-source platform, built with care and maintained by a small, dedic
 Our goal isn’t to replace the modding scene — just to give it a better home.
 
 > Volar is a subsidiary of [Venoxity Development](https://github.com/Venoxity-Development), a team focused on building practical, creator-first tools and platforms.
+
+---
+
+## 📬 Get in Touch
+
+Got questions, feedback, or want to collaborate?
+
+📧 `contact.volar@proton.me`
